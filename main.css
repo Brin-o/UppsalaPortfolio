@@ -257,6 +257,13 @@ li{
     font-family: 'Roboto' sans-serif;
     font-weight: 300;
 }
+
+.landing-text h7{
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Roboto' sans-serif;
+}
 /*End header*/
 
 /*Start about*/
